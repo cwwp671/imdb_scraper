@@ -38,6 +38,5 @@ This project is a web application that scrapes IMDb movie quotes and stores them
 To run the test suite, execute the following command:
 
 python -m unittest discover tests
-#   i m d b _ s c r a p e r 
  
  
